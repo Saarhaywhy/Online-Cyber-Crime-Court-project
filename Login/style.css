@@ -1,0 +1,16 @@
+
+.form-bar{
+    max-width: 50%;
+    min-width: none;
+}
+
+/* @media(min-width:736px){
+    .section1{
+        text-align: center;
+        
+    }
+} */
+
+.forms{
+    text-align: center;
+}
