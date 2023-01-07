@@ -10,3 +10,7 @@
 .readnav{
     display: inline-block;
 }
+
+.container h1{
+    color: black;
+}

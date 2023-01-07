@@ -29,9 +29,18 @@ body{
 .background{
     background: url(../Img/1656153350200.jpg) center/cover;
     backdrop-filter: 40%;
-    opacity: 95%;
+    opacity: 57%;
     width: 100vw;
     height: 100vh;
     position: fixed;
     z-index: -1;
+}
+
+#Front-view {
+    background: url("Img\1656153363293.jpg") center/cover;
+    color: blue;
+    text-align: right;
+     width: 100vw;
+    height: 33vh;
+
 }
