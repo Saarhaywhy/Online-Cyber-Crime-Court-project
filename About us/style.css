@@ -1,6 +1,6 @@
 .font-size{
     font-size: 1.5rem;
-    color: white;
+    color: black;
     font: bolder;
     text-align: center;
     
@@ -8,7 +8,7 @@
 
 .font-sizes{
     font-size: 1.5rem;
-    color: white;
+    color: black;
     font: bolder;
     text-align: left;
     
@@ -16,18 +16,11 @@
 
 .font-size ol{
     font-size: 1.5rem;
-    color: white;
+    color: black;
     text-align: left;
 }
 
 
-
-.background{
-    background: url(../Img/1656153350200.jpg) center/cover;
-    backdrop-filter: 40%;
-    opacity: 95%;
-    width: 100vw;
-    height: 100vh;
-    position: fixed;
-    z-index: -1;
+body{
+    font-family: sans-serif;
 }
