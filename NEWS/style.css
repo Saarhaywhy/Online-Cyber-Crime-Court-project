@@ -2,6 +2,10 @@
     text-align: right;
 }
 
+.background{
+    background: blue;
+}
+
 .font{
     font-size: 1.5rem;
    
